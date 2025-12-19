@@ -19,5 +19,5 @@ Shared git for results / misc, probably a minimal version of the code if prof is
 
 ```
 
-![HL Architecture](High level arch.png)
+![HL Architecture](High_level_arch.png)
 
