@@ -19,5 +19,5 @@ Shared git for results / misc, probably a minimal version of the code if prof is
 
 ```
 
-<img src="18Dec25PaperIdea.pptx.png" alt="HL Architecture" width="800"/>
+![HL Architecture](High level arch.png)
 
