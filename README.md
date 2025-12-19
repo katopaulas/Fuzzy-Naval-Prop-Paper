@@ -1,4 +1,10 @@
-# Fuzzy prediction 
+# Fuzzy explainable condition-based maintenance for naval propulsion systems 
+
+
+```diff
+! Title is not the above necessarily, I just had to name it something.
+```
+
 
 Shared git for results / misc, probably a minimal version of the code if prof is ok
 
@@ -15,7 +21,3 @@ Shared git for results / misc, probably a minimal version of the code if prof is
 
 
 
-
-```diff
-
-```
